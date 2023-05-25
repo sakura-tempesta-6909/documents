@@ -4,5 +4,6 @@
 
 
 ## ドキュメント一覧
-[定款]() 移動準備中<br>
+[定款](teikan.md)
+
 [役員報酬規定](yakuin_housyuu_kitei.md)
